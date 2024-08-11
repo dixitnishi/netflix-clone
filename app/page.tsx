@@ -1,8 +1,3 @@
-
 export default function Home() {
-  return (
-    <div >
-      Nextflix Clone
-    </div>
-  );
+  return <div className="text-green-600">Nextflix Clone</div>;
 }
